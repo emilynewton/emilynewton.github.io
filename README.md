@@ -2,5 +2,5 @@
 **This is my github page for CS-HU250!**
 🐈 🐈‍⬛
 
-[View my Github Profile!](www.github.com/emilynewton)
+[View my Github Profile!](github.com/emilynewton)
 
